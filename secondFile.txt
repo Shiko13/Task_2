@@ -1,5 +1,7 @@
 line 1_also_updated
 line 2_also_updated
+line 1_updated
+line 2_updated
 line 3
 line 4
 line 5
